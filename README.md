@@ -6,4 +6,4 @@ Practicing the art of effortless results in my journey as a Data Scientist, prac
 - 👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning
 - 📫 Lets connect:
 
-[![Instagram](/images/instagram.png)](https://www.instagram.com/)
+[![Instagram](/images/instagram.svg)](https://www.instagram.com/)
