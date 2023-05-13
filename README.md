@@ -6,4 +6,12 @@ Practicing the art of effortless results in my journey as a Data Scientist, prac
 - 👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning
 - 📫 Lets connect:
 
-[![Instagram](/images/instagram.svg)](https://www.instagram.com/)
+<a href="https://twitter.com/mariodchavez7">
+  <img src="/images/twitter.svg" alt="Medium" width="100" height="100">
+</a>
+<a href="https://www.linkedin.com/in/mariodchavez/">
+  <img src="/images/linkedIn.svg" alt="LinkedIn" width="100" height="100">
+</a>
+<a href="https://medium.com/@mariodchavezl">
+  <img src="/images/medium.svg" alt="Medium" width="100" height="100">
+</a>
