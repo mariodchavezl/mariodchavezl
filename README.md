@@ -7,5 +7,5 @@ Practicing the art of effortless results in my journey as a Data Scientist, prac
 - 📫 Lets connect:
 
 <a href="https://www.linkedin.com/in/mariodchavez/">
-  <img src="/images/linkedIn.svg" alt="LinkedIn" style="width: 200px; height: 200px;">
+  <img src="/images/linkedIn.png" alt="LinkedIn" style="width: 200px; height: 200px;">
 </a>
