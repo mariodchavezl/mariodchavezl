@@ -14,7 +14,7 @@ Practicing the art of effortless results in my journey as a Data Scientist, prac
 </a>
 
 <a href="https://twitter.com/mariodchavez7">
-  <img src="/images/icons8-twitter.png" alt="Twitter" style="width: 20px; height: 20px;">
+  <img src="/images/icons8-twitter.svg" alt="Twitter" style="width: 20px; height: 20px;">
 </a>
 
 <a href="https://medium.com/@mariodchavezl">
