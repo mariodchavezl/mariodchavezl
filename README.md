@@ -13,4 +13,13 @@ Practicing the art of effortless results in my journey as a Data Scientist, prac
   <img src="/images/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;">
 </a>
 
+<a href="https://twitter.com/mariodchavez7">
+  <img src="/images/twitter.png" alt="Twitter" style="width: 20px; height: 20px;">
+</a>
+
+<a href="https://medium.com/@mariodchavezl">
+  <img src="/images/medium.png" alt="Medium" style="width: 20px; height: 20px;">
+</a>
+
+
 
