@@ -6,7 +6,6 @@ Practicing the art of effortless results in my journey as a Data Scientist, prac
 - 👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning
 - 📫 Lets connect:
 
-
 <a href="https://www.linkedin.com/in/mariodchavez/">
-  <img src="images/linkedIn.svg" alt="LinkedIn" width="100" height="100">
+  <img src="/images/linkedIn.svg" alt="LinkedIn" style="width: 200px; height: 200px;">
 </a>
